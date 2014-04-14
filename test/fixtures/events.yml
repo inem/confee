@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  started_at: 2014-04-14 01:33:57
+  finished_at: 2014-04-14 01:33:57
+  title: MyString
+  conference_id: 
+
+two:
+  started_at: 2014-04-14 01:33:57
+  finished_at: 2014-04-14 01:33:57
+  title: MyString
+  conference_id: 
